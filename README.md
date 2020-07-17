@@ -4,7 +4,17 @@
 
 # Importante: Referencia a la PPT Final. 
 
-# Nota: Nuestra Presentación Final se encuentra disponible [aquí](https://docs.google.com/presentation/d/1F4r9wOsw0P-3SmjIceGNIX__WrpEXx_lXF7t8YWi-M0/edit?usp=sharing)
+# Nuestra Presentación Final se encuentra disponible [aquí](https://docs.google.com/presentation/d/1F4r9wOsw0P-3SmjIceGNIX__WrpEXx_lXF7t8YWi-M0/edit?usp=sharing)
+
+
+# Equipo:
+
+|Integrante|User github|
+|:--:|:--:|
+|Enrique Ortiz|[EnriqueOrtiz27](https://github.com/EnriqueOrtiz27)|
+|Octavio Fuentes| [ofuentesitam](https://github.com/ofuentesitam)|
+|Carlos Garza|[carlosgarza-3](https://github.com/carlosgarza-3)|
+
 
 
 Practica final por equipos prope 2020 
