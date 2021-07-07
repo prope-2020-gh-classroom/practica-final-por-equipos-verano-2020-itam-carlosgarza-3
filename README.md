@@ -1,6 +1,22 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2911866&assignment_repo_type=AssignmentRepo)
 # practica-final-por-equipos-2020
 
+
+# Importante: Referencia a la PPT Final. 
+
+# Nuestra Presentación Final se encuentra disponible [aquí](https://docs.google.com/presentation/d/1F4r9wOsw0P-3SmjIceGNIX__WrpEXx_lXF7t8YWi-M0/edit?usp=sharing)
+
+
+# Equipo:
+
+|Integrante|User github|
+|:--:|:--:|
+|Enrique Ortiz|[EnriqueOrtiz27](https://github.com/EnriqueOrtiz27)|
+|Octavio Fuentes| [ofuentesitam](https://github.com/ofuentesitam)|
+|Carlos Garza|[carlosgarza-3](https://github.com/carlosgarza-3)|
+
+
+
 Practica final por equipos prope 2020 
 
 **Antes de iniciar a trabajar:** sólo una persona de cada equipo debe darle click a la liga de gh-classroom que está indicada en la lista de estudiantes (Excel) en el repo del Propedéutico en la tab **practica_final_por_equipos**. Una vez que le dé click a la liga de gh-classroom tal persona invitará a sus integrantes de equipo como *Admins*. Para invitar a sus integrantes ir dentro del repo de gh-classroom a *Settings* -> *Manage Access* y enviar la invitación ingresando *users* de github de sus integrantes.
